@@ -14,3 +14,8 @@ Ratio of tire: 50
 Diameter of tire: 14
 Volume of tire: 24.09
 Phone number: 09137102867
+Current date: 2023-11-01
+Width of tire: 185
+Ratio of tire: 50
+Diameter of tire: 14
+Volume of tire: 24.09
