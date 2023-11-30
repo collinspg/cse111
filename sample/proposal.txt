@@ -1,0 +1,65 @@
+CSE 111 Proposal for a Student Chosen Program
+
+    (This is a proposal. All proposals are written with our best
+    knowledge at the beginning of a project. As we progress from the
+    beginning to the end of a project, we gain more knowledge, and we
+    change some of our proposed ideas. This is part of completing any
+    project and is fine.  However, we still must write a proposal so
+    that our teachers or supervisors know what we intend to do. Please
+    answer each of the following questions to the best of your
+    knowledge.)
+
+1. What is the title of your program?
+Answer: Word Analysis
+
+2. What real-world problem will your program address or help to solve?
+
+Answer1: Language Processing: My program can be used in natural language 
+processing tasks, where analyzing word frequencies and patterns can provide 
+insights into text data.
+
+Answer2: Writing and Editing: Writers and editors can utilize the program 
+to analyze their own texts, identify repetitive or overused words, and improve 
+the overall readability and quality of their writing.
+
+3. What will you learn from developing this program?
+Answer:By developing this program, I will gain experience in working with 
+file I/O, string manipulation, data structures (such as dictionaries and sets), 
+and testing using the pytest framework.
+
+4. What Python modules will your program use?
+
+    (Some examples are: csv, datetime, functools, matplotlib, math,
+    pandas, pytest, random, requests, and tkinter.)
+
+Answer:My program will use the following Python modules:
+1. pytest: Used for writing and executing test functions.
+2. string: Used for handling string operations and punctuation removal.
+
+5. List the names of functions you will need?
+
+    (Remember that the most reusable functions don't get user input and
+    don't print results but instead have parameters and return a result.
+    Functions that get user input and print results are important and do
+    useful work but are not easily reusable.)
+
+    (Remember also that it's hard to test functions that get user input
+    and print results. It's easy to test functions that don't get user
+    input and don't print results but instead have parameters and return
+    a result. Therefore, you should write most of your program functions
+    to have parameters and return a result.)
+
+Answer:
+1. calculate_unique_word_count(text): Calculates the count of unique words in the given text.
+2. calculate_word_count(text): Calculates the total word count in the given text.
+3. read_file(filename): Reads the contents of a file and returns the text.
+4. main(): The entry point of the program that orchestrates the execution of other functions.
+5. calculate_word_frequency(text): Calculates the frequency of each word in the given text.
+
+6. List the names of the test functions you will write.
+Answer:
+1. test_calculate_word_count(): Tests the calculate_word_count() function by asserting the 
+expected word count.
+2. test_calculate_word_frequency(): Tests the calculate_word_frequency() function by asserting 
+the expected word frequency dictionary.
+
