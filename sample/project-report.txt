@@ -1,0 +1,43 @@
+Second Report for a Student Chosen Project
+
+Do the following:
+
+1. In the table below, list the dates, amount of time spent, and
+description of the work that you did on your project. Follow the example
+that is in the first row of the table below. Include the time you spent
+doing any of the following:
+    a. discussing your project with your teacher, tutor, or fellow students
+    b. researching by reading articles and watching applicable videos
+    c. designing your project by drawing diagrams and other applicable documents
+    d. writing experimental code
+    d. writing code for your project
+    e. writing test functions
+    f. debugging your code
+    g. any other activity that helped you complete your project
+
+=============Example====================
+            Time Spent
+   Date       (hours)   Description of Work
+----------  ----------  -------------------------
+2021-12-03      2.5     Wrote two program functions and two test functions
+2021-12-03      .5      Watched video on 
+=============Example====================
+
+2023-12-09 1.5 Discussed project ideas with fellow students(Fabian)
+2023-12-09 1.0 Researched file handling in Python by reading documentation in W3 Schools
+2023-12-02 1.0 Designed project structure by creating a flowchart
+2023-12-09 2.0 Wrote experimental code for reading and processing text files
+2023-12-09 2.0 Implemented main function for word analysis
+2023-12-09 1.0 Created sample text files for testing
+2023-12-10 1.5 Wrote test functions for word analysis functions
+2023-12-10 1.0 Debugged and refined word analysis functions
+2023-12-11 2.0 Added error handling and input validation to the program
+2023-12-11 0.5 Watched video tutorial on pytest framework
+2023-12-11 1.0 Conducted additional testing and fine-tuned the program
+2023-12-11 1.0 Prepared documentation and finalized project submission
+
+
+
+2. In I-Learn, submit this completed text file, your Python program, your
+Python test file, and any project data files such as .txt and .csv files and
+link to video walkthrough if needed.
